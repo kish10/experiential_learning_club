@@ -26,7 +26,7 @@ Question (Diya):
 - Instagram 
 - - Number of likes on a persons profile.
 - - Follow people. For example influencers, normal people, friends.
-- - Maybe contact people from different schools or neighborhoods and ask them (& their friends).
+- Maybe contact people from different schools or neighborhoods and ask them (& their friends).
 - Most friends are commuters and since they are communiting to different universities
 - Name Brand Companies 
 - - Start later. 
@@ -62,3 +62,11 @@ Question (Diya):
 1. Want something physical to show at the end. In this case articles.
 2. Need to create plan/timelines.
 3. Need to write logs that reflect: what did that day/week, what wanted to do, what want to do in the future, progress towards the plan/timeline.
+
+----
+
+## For next time.
+
+1. Think of and develop your stories/ideas more. (you can talk to each other about them too of course)
+2. Come up with a plan/timeline for your project.
+3. Get Github accounts. ( and send me your usernames)
