@@ -28,8 +28,9 @@ There are 3 steps in git you'll need to go through:
 
 0. Make sure you are in the correct git branch.    
   
-    Add or edit files that are inside the repository on your computer.  
-(what are the naming convetions for the files ?)
+    Add or edit files that are inside the repository on your computer.
+    
+    (what are the naming conventions for the files ?)
 
 1. **Add** files to be tracked. On the terminal: 
     - go inside the repository directory
