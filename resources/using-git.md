@@ -51,3 +51,17 @@ There are 3 steps in git you'll need to go through:
     > git pull
     - To push your changes into the computer run the command
     > git push
+
+
+## References
+BetterExplained.com  
+[A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/)  
+- Good in depth getting started/reference
+
+Git Documentation  
+[Git Branches in Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)  
+- Visually goes through git concepts & explains the commands.
+
+Roger Dudler  
+[git - the simple guide](https://rogerdudler.github.io/git-guide/)  
+- "Visual" git reference.
