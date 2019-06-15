@@ -1,8 +1,19 @@
 # Using Git
 
+## Installing git
+
+### Installing git on Mac
+1. Open the **terminal** (type **terminal** in the finder)
+
+2. Install _**brew**_ by running the command (i.e copy, paste, press ENTER)
+> /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+3. Install _**git**_ by running the command
+> brew install git
+
 ## Getting started
 
-0. Install _**git**_ on your computer, and get familiar with working on the _**terminal**_
+0. Install _**git**_ on your computer, and get familiar with working on the **terminal**
 
 1. You need to "clone" the repository from Github to your computer
 
