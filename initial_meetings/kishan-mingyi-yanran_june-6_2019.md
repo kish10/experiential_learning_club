@@ -162,7 +162,7 @@ How to collect data?
 ## Next Steps
 1. Formalize the story & questions want to answer  
     - What would make the most impact?
-    - There are also other kinds of tutor help. Not only for Chinese students.  
+    - Looking at different sides of the story. Ex: There are also other kinds of tutor help, not only for Chinese students.    
 2. Timeline  
     - Want to finish article before September.
 3. Get Github accounts.
