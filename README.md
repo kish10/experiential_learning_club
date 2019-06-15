@@ -1,9 +1,13 @@
 # Experiential Learning Club
 
 ## Resources
-[Getting started with Git](experiential_learning_club/resources/using-git.md)
+[Getting started with Git](resources/using-git.md)
 
 ## Projects
-[Fashion Trends](experiential_learning_club/projects/fashion_trends)  
+[Fashion Trends](projects/fashion_trends)  
 **Students**: Asvitha, and Diya  
 **Mentors**: Amber, and Nnenna
+
+[Optimizing Education](projects/optimizing_education)  
+**Students**: Ming Yi, and Yanran  
+**Mentors**: Alex, and Kishan
