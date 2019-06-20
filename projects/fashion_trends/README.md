@@ -1,6 +1,6 @@
 # Fashion Trends
 **Students**: Asvitha, and Diya  
-**Mentors**: Amber, and Nnenna
+**Mentors**: Amber, Kishan, and Nnenna
 ----
 
 > How do fashion trends go from subjective conceptions to objective realizations ?
