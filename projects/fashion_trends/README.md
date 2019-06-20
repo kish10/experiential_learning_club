@@ -5,6 +5,10 @@
 
 > How do fashion trends go from subjective conceptions to objective realizations ?
 
+[Initial meeting](initial_meetings/asvitha-diya-kishan_june-6-2019.md)
+
+----
+
 ## Skills
 
 ### Project Management
@@ -39,6 +43,7 @@
 * Interpreting results
 * Writing report(s)
 
+----
 
 ## Project Timeline
 

@@ -3,6 +3,11 @@
 **Mentors**: Alex, and Kishan
 ----
 
+[Initial Meeting](initial_meetings/kishan-mingyi-yanran_june-6_2019.md)
+
+
+----
+
 ## Skills
 
 ### Project Management
@@ -36,5 +41,8 @@
 * Summarizing results
 * Interpreting results
 * Writing report(s)
+
+
+----
 
 ## Timeline
